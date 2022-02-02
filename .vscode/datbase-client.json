@@ -1,0 +1,42 @@
+{
+    "database.connections": {
+        "1643323203890": {
+            "host": "127.0.0.1",
+            "dbPath": "/Users/karol/Library/Mobile Documents/com~apple~CloudDocs/Coding/private_python/Eurostat_to_db/eurostat.db",
+            "port": "3306",
+            "user": "root",
+            "authType": "default",
+            "password": "",
+            "encoding": "utf8",
+            "clientKeyPath": null,
+            "clientCertPath": null,
+            "caPath": null,
+            "database": null,
+            "useSSL": false,
+            "usingSSH": false,
+            "showHidden": false,
+            "includeDatabases": null,
+            "dbType": "SQLite",
+            "encrypt": true,
+            "isCluster": false,
+            "connectionUrl": "",
+            "srv": false,
+            "esAuth": "none",
+            "global": false,
+            "key": "1643323203890",
+            "timezone": "+00:00",
+            "ssh": {
+                "host": "",
+                "privateKeyPath": "/Users/karol/.ssh/id_rsa",
+                "port": 22,
+                "username": "root",
+                "type": "privateKey",
+                "connectTimeout": 10000,
+                "algorithms": {
+                    "cipher": []
+                }
+            },
+            "connectionKey": "database.connections"
+        }
+    }
+}
